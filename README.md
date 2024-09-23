@@ -19,6 +19,32 @@ Back up your iOS devices the way it's meant to be done.
 - [x] Receive notifications throughout the backup process.
 - [x] Includes a simple alive checker via GET request.
 
+If this app helps you out, consider a [donate](https://github.com/sponsors/Lakr233).
+
+## Installation Guide
+
+### Homebrew
+
+To install BBackupp using Homebrew, follow these steps:
+
+1. Ensure that you have Homebrew installed. If you don't have it, you can install it by running the following command in your terminal:
+
+    ```sh
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    ```
+
+2. Install BBackupp:
+
+    ```sh
+    brew install bbackupp
+    ```
+
+### From Release
+
+To install BBackupp from the release page:
+
+Visit the [Releases](https://github.com/Lakr233/BBackupp/releases) on GitHub.
+
 ## ~~Partial Open Source Notice~~
 
 ~~Starting from version 2.0, certain components are not included in the open-source repository:~~
